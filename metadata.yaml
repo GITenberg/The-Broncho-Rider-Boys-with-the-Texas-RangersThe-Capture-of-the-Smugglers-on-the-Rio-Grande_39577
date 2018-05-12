@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '8729'
     url: http://www.gutenberg.org/2009/agents/8729
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39577#The-Broncho-Rider-Boys-with-the-Texas-RangersThe-Capture-of-the-Smugglers-on-the-Rio-Grande
 gutenberg_issued: '2012-04-30'
 gutenberg_type: Text
 identifiers:
